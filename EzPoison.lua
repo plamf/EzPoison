@@ -35,6 +35,7 @@ EZP.Work = 	{
 		[4] = "Crippling Poison II",
 		[5] = "Mind-numbing Poison",
 		[6] = "Wound Poison",
+		[7] = "Corrosive Poison",
 	},
 	PoisonID = {
 		[1] = {6947,6949,6950,8926,8927,8928},
@@ -43,6 +44,7 @@ EZP.Work = 	{
 		[4] = 3776,
 		[5] = {5237,6951,9186},
 		[6] = {10918,10920,10921,10922},
+		[7] = {50004},
 	},
 	PoisonIcon = {
 		[1] = "Interface\\Icons\\Ability_Poisons",
@@ -51,6 +53,7 @@ EZP.Work = 	{
 		[4] = "Interface\\Icons\\INV_Potion_19",
 		[5] = "Interface\\Icons\\Spell_Nature_NullifyDisease",
 		[6] = "Interface\\Icons\\Ability_PoisonSting",
+		[7] = "Interface\\Icons\\Inv_misc_slime_01",
 	}
 }
 
